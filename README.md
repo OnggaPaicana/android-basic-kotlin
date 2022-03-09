@@ -1,10 +1,15 @@
-# ANDROID BASICS IN KOTLIN
+# STUDENT 🧑‍🎓
 
-**Unit 2: Layouts**
+<pre>
 
-[Link Course Android Basics In Kotlin](https://developer.android.com/courses/android-basics-kotlin/unit-2)
+    Name                : Ongga Paicana
 
-<br>
+    NIM                 : 145410041
+
+    Google Developer    : <a href="https://developers.google.com/profile/u/112531665441872228101?utm_source=developer.android.com">Ongga Paicana</a>
+
+</pre>
+
 <br>
 
 # Bookmark ⬇️⬇️️
@@ -33,10 +38,7 @@
 - [Display a list of images using cards](https://github.com/OnggaPaicana/android-basic-kotlin/commit/75fdf0e678f0ccacccca532254a4622ba3010f38)
 
 <br>
-<br>
 
-# STUDENT 🧑‍🎓
+## Course Source
 
-    Name    : Ongga Paicana
-
-    NIM     : 145410041
+[Unit 2: Layouts ▶️ ANDROID BASIC IN KOTLIN](https://developer.android.com/courses/android-basics-kotlin/unit-2)
