@@ -6,8 +6,6 @@
 
 <br>
 <br>
-<br>
-<br>
 
 # Bookmark ⬇️⬇️️
 
@@ -33,3 +31,12 @@
 - [Use Lists in Kotlin](https://github.com/OnggaPaicana/android-basic-kotlin/commit/b3607b181a168f6e751dac04f337599e56db2f62)
 - [Use RecyclerView to display a scrollable list](https://github.com/OnggaPaicana/android-basic-kotlin/commit/836be659edfff57880dc3055c1829eda7af8bc6a)
 - [Display a list of images using cards](https://github.com/OnggaPaicana/android-basic-kotlin/commit/75fdf0e678f0ccacccca532254a4622ba3010f38)
+
+<br>
+<br>
+
+# STUDENT 🧑‍🎓
+
+    Name    : Ongga Paicana
+
+    NIM     : 145410041
